@@ -1,0 +1,36 @@
+TAB ĐƠN HÀNG:
+
+
++ Thêm Cột Ngày thu, phân biệt với ngày lập hóa đơn -> bấm nút Thanh toán lên trạng thái DONE tự động tạo ngày thu
+
+
+------+ Đẩy date -> date time chính xác----------
+------+ Thêm Ghi Chú vào AddButton, chuyển ghi chú về cuối-------
+------+ Niêm Yết giá, trừ Repaint với dán keo -> cái nào không niêm yết thì để = 0-----
+------+ Thêm cột số lượng và tự động tính tổng tiền-------
+------+ Xóa Debt + Method-------
+------+ Search theo sđt-------
+------+ Khung ghi chú mới như hình trên Mess--------
+
+TAB KH:
+-------table KH -------
+-------+ Tổng nợ của Khách hàng---------
+-------+ LỊCH SỬ: PT, HD, số hóa đơn--------
+
++ Nút link đơn hàng ==> TUTU
++ Nút Xóa Nợ --> TUTU
+
+Sản phẩm:
+--------TABLE SP-------
++ Tạo hình
++ Chọn hình
+--------+ Note sản phẩm -> description-------
+
+Làm nút add + delete cho các tab
+
+**IN HÓA ĐƠN
+**BUILD Phần mềm
+
+
+
+**Khách đã trả
